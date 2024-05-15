@@ -1,0 +1,29 @@
+// Uma lista em json para adiantar o post pelo insomnia/postman
+
+
+
+{
+	"name":"Ipad Pro Max",
+	"description":"O novo modelo de tablet da Aple chegou",
+	"price":"6450",
+	"rating":"5",
+	"picture":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-10th-gen-finish-select-202212-silver-wificell_FMT_WHH?wid=1280&hei=720&fmt=p-jpg&qlt=95&.v=1670856098021"
+
+
+}
+
+
+{
+    "name":"Smartphone Sansung 7s",
+    "description":"O novo modelo de Smartphone da sansungo chegou",
+    "price":"2400",
+    "rating":"5",
+    "picture":"https://a-static.mlcdn.com.br/450x450/smartphone-samsung-galaxy-s23-256gb-violeta-5g-8gb-ram-61-cam-tripla-selfie-12mp/magazineluiza/232853800ddb1c2f7e55e2a487ed97c47f37da9e5.jpg"
+}
+
+
+
+
+
+
+
